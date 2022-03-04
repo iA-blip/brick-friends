@@ -1,7 +1,11 @@
 # brick-friends
 brick-friends is a command-line tool to massively add friends on [brick-hill](https://www.brick-hill.com/). This project was made for educational purposes only.
 ## Installation
-Use the setup.py file to install brick-friends.
+You can use pip
+```bash
+pip install brick-friends
+```
+or use the setup.py file to install brick-friends.
 ```bash
 py setup.py install
 ```
