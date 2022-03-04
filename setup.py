@@ -5,11 +5,11 @@ with open("LICENSE") as f:
 
 setup(
     name = "brick-friends",
-    packages = ["brick-friends"],
     version = "1.0",
     description = "Command-line tool to friend people on brick-hill.",
     author = "iA-blip",
     url = "https://github.com/iA-blip/brick-friends",
+    download_url = "https://github.com/iA-blip/brick-friends/archive/refs/tags/v_01.tar.gz",
     license = license,
     packages = find_packages(),
     keywords = ["brick-hill", "cli"],
